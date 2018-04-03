@@ -1,1 +1,1 @@
-cat stdlib.frt - | ./bin/forthress
+cat stdlib.frt task1.frt - | ./bin/forthress
